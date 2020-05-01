@@ -1,6 +1,7 @@
-LHL Node Skeleton
+VolunHero Backend API
 =========
-## VolunHero Backend API
+## VolunHero Front End 
+Run front end from (https://github.com/jasminesingh0509/VolunHero). Both servers must run concurrently. 
 
 ## Getting Started
 
