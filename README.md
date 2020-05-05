@@ -31,6 +31,6 @@ Run front end from (https://github.com/jasminesingh0509/VolunHero). Both servers
 - NPM 5.x or above
 - PG 6.x
 
-## Author
+## Authors
 
 Jasmine Singh, Marta Luiz Avelino and Sruthi Korada -LighthouseLabs 2020
